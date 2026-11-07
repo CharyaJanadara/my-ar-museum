@@ -70,4 +70,4 @@ Taps are detected using raycasting. Interactive objects use `class="clickable"`,
 
 **Mini AR Museum Exhibit – Group 54**
 
-- **3D model:** Penguin.glb (creator and original source details not available).
+- **3D model:** Penguin.glb (https://poly.pizza/m/kvZRSJBz70?utm_source=chatgpt.com).
